@@ -1,5 +1,5 @@
 package projectMap;
-
+/** This class creates each network as an object with the network's data */
 public class Wifi implements Comparable<Wifi> {
 	private String Time;
 	private String ID;
@@ -100,7 +100,8 @@ public class Wifi implements Comparable<Wifi> {
 	public void setSignal(String Signal) {
 		this.Signal = Signal;
 	}
-
+    
+	/** This function compares the strength of the networks */
 	@Override
 	public int compareTo(Wifi o) {
 		int currentSignal = Integer.parseInt(this.Signal);
