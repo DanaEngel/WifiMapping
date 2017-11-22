@@ -7,14 +7,21 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+/** @author Dana and Enna
+ *  This class contains....
+ */
+
 public class WifiMapping {
 	private List<Wifi> fileWifiPoints;
 	private Map<String, Map<String, Map<String, Map<String, List<Wifi>>>>> wifiGroups;
 
-	public WifiMapping() { //e12e
+	public WifiMapping() {
 		fileWifiPoints = new ArrayList<Wifi>();
 	}
-
+/** This function...
+ * @param folderName
+ * @param csvFilePath
+ */
 	public void readFromFolderAndBuildCsv(String folderName, String csvFilePath) {
 		File directory = new File(folderName);
 		File[] filesInDir = directory.listFiles();
@@ -35,6 +42,11 @@ public class WifiMapping {
 		writeToFile(csvFilePath);
 	}
 
+	/** This function gets the file extension of the file we are reading
+	 * @param file 
+	 * the file we are reading
+	 * @return the name of the file name extension
+	 */
 	private String getFileExtension(File file) {
 		String fileName = file.getName();
 		String extension = "";
@@ -44,6 +56,8 @@ public class WifiMapping {
 		return extension;
 	}
 
+	/** @param fileName
+	 */
 	private void readFromFileAndGroup(String fileName) {
 		String str;
 		String[] network;
@@ -83,6 +97,9 @@ public class WifiMapping {
 			System.exit(2);
 		}
 	}
+	
+	/** @param fileName
+	 */
 
 	private void writeToFile(String fileName) {
 		try {
