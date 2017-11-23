@@ -11,7 +11,8 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-/** This class filters by specific field and stores all of the data in an array
+/**
+ * This class filters by specific field and stores all of the data in an array
  * list we created. It uses the library Map to group all of the same "mac"
  * values.
  * 
