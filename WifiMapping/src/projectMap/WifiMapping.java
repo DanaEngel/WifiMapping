@@ -137,7 +137,7 @@ public class WifiMapping {
 
 							for (Map.Entry<String, List<Wifi>> entryAlt : wifiLevelFour
 									.entrySet()) {
-								Alt = entryLon.getKey();
+								Alt = entryAlt.getKey();
 								List<Wifi> wifiList = entryAlt.getValue();
 
 								Collections.sort(wifiList);
