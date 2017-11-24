@@ -8,7 +8,7 @@ import de.micromata.opengis.kml.v_2_2_0.KmlFactory;
 import de.micromata.opengis.kml.v_2_2_0.TimeStamp;
 
 /**
- * This class is responsible for writing the filtered kml file. It takes the
+ * This class is responsible for writing the filtered KML file. It takes the
  * filtered arrayList we created in the ReadToKml class and writes it as the
  * user wants.
  * 
@@ -21,16 +21,15 @@ public class WriteKml {
 	/**
 	 * This is the constructor of the class
 	 * 
-	 * @param pathToWrite
-	 *            - where to write the file
+	 * @param pathToWrite - where to write the file
 	 */
 	public WriteKml(String pathToWrite) {
 		this.pathToWrite = pathToWrite;
 	}
 
 	/**
-	 * This function is responsible for writing the kml itself, it uses external JAR
-	 * libraries and creates new placemakes.
+	 * This function is responsible for writing the KML itself, it uses external JAR
+	 * libraries and creates new placeMakers.
 	 * 
 	 * @param wifiPointsList
 	 *            - the filtered list.

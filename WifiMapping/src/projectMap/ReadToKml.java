@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 
 /**
  * This class filters by specific field and stores all of the data in an array
- * list we created. It uses the library Map to group all of the same "mac"
+ * list we created. It uses the library Map to group all of the same "MAC"
  * values.
  * 
  * @author Enna and Dana
@@ -26,10 +26,9 @@ public class ReadToKml {
 
 	/**
 	 * This is the constructor of the class that gets a csv file and creates and
-	 * arraylist
+	 * arrayList
 	 * 
-	 * @param csvFile
-	 *            - the csv file we created in the WifiMapping class.
+	 * @param csvFile - the CSV file we created in the WifiMapping class.
 	 */
 	public ReadToKml(File csvFile) {
 		this.csvFile = csvFile;
@@ -129,10 +128,8 @@ public class ReadToKml {
 	/**
 	 * This function filters by the time it gets.
 	 * 
-	 * @param network
-	 *            - is a line from csv file
-	 * @param value
-	 *            - input from the user that we need to filter by.
+	 * @param network - is a line from CSV file
+	 * @param value - input from the user that we need to filter by.
 	 */
 	private void filterByTime(String[] network, String value) {
 		int numberOfNetworks = Integer.parseInt(network[5]);
@@ -203,12 +200,9 @@ public class ReadToKml {
 	/**
 	 * This function filters by the place it gets.
 	 * 
-	 * @param network
-	 *            - is a line from csv file
-	 * @param lat
-	 *            - input from the user that we need to filter by.
-	 * @param lon
-	 *            - input from the user that we need to filter by.
+	 * @param network - is a line from CSV file
+	 * @param lat - input from the user that we need to filter by.
+	 * @param lon - input from the user that we need to filter by.
 	 */
 	private void filterByPlace(String[] network, String lat, String lon) {
 		int numberOfNetworks = Integer.parseInt(network[5]);

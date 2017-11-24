@@ -8,8 +8,8 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author Enna and Dana This class contains the read from csv (not formated)
- *         and write to a new grouped and formated csv file. it uses a Map - a
+ * @author Enna and Dana This class contains the read from CSV (not formated)
+ *         and write to a new grouped and formated CSV file. it uses a Map - a
  *         data structure that help to group the relevant data together.
  */
 
@@ -22,7 +22,7 @@ public class WifiMapping {
 	}
 
 	/**
-	 * This function reads the csv file that is not formated and groups all of the
+	 * This function reads the CSV file that is not formated and groups all of the
 	 * information in clusters (Map data structure) in which each level is a
 	 * different group. This way we have easier access to each cluster.
 	 * 
@@ -55,8 +55,7 @@ public class WifiMapping {
 	/**
 	 * This function gets the file extension of the file we are reading.
 	 * 
-	 * @param file
-	 *            - the file we are reading
+	 * @param file - the file we are reading
 	 * @return the name of the file name extension
 	 */
 	private String getFileExtension(File file) {
@@ -112,7 +111,7 @@ public class WifiMapping {
 	}
 
 	/**
-	 * This private function is used in order to write the new csv file with the
+	 * This private function is used in order to write the new CSV file with the
 	 * grouped data.
 	 * 
 	 * @param fileName

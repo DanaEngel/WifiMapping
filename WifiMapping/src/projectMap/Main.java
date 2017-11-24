@@ -4,7 +4,7 @@ import java.io.File;
 
 /**
  * This class is the main class in which the program enters to. It creates a CSV
- * file and uses it to create a new kml file by filtered fields.
+ * file and uses it to create a new KML file by filtered fields.
  * 
  * @author Dana and Enna
  */
