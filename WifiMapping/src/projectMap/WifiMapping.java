@@ -6,10 +6,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
-/**@author Enna and Dana
- * This class contains the read from csv (not formated)
- * and write to a new grouped and formated csv file. it uses a Map - a
- * data structure that help to group the relevant data together.
+
+/**
+ * @author Enna and Dana This class contains the read from csv (not formated)
+ *         and write to a new grouped and formated csv file. it uses a Map - a
+ *         data structure that help to group the relevant data together.
  */
 
 public class WifiMapping {
@@ -114,7 +115,8 @@ public class WifiMapping {
 	 * This private function is used in order to write the new csv file with the
 	 * grouped data.
 	 * 
-	 * @param fileName - where to write the file.
+	 * @param fileName
+	 *            - where to write the file.
 	 */
 
 	private void writeToFile(String fileName) {
