@@ -1,6 +1,5 @@
 package projectMap;
-/**
- * This class represents all of the relevant information we need to fetch from
+/**This class represents all of the relevant information we need to fetch from
  * the files.
  * 
  * @author Enna and Dana
