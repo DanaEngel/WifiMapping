@@ -1,5 +1,9 @@
 package projectMap;
-/**This class represents all of the relevant information we need to fetch from the files.
+
+/**
+ * This class represents all of the relevant information we need to fetch from
+ * the files.
+ * 
  * @author Enna and Dana
  */
 public class Wifi implements Comparable<Wifi> {
@@ -13,19 +17,21 @@ public class Wifi implements Comparable<Wifi> {
 	private String Frequency;
 	private String Signal;
 
-/** This is the constructor 
- * @param Time
- * @param ID
- * @param Lat
- * @param Lon
- * @param Alt
- * @param SSID
- * @param MAC
- * @param Frequency
- * @param Signal 
- **/
-	public Wifi(String Time, String ID, String Lat, String Lon, String Alt,
-			String SSID, String MAC, String Frequency, String Signal) {
+	/**
+	 * This is the constructor
+	 * 
+	 * @param Time
+	 * @param ID
+	 * @param Lat
+	 * @param Lon
+	 * @param Alt
+	 * @param SSID
+	 * @param MAC
+	 * @param Frequency
+	 * @param Signal
+	 **/
+	public Wifi(String Time, String ID, String Lat, String Lon, String Alt, String SSID, String MAC, String Frequency,
+			String Signal) {
 		this.Time = Time;
 		this.ID = ID;
 		this.Lat = Lat;
@@ -36,9 +42,11 @@ public class Wifi implements Comparable<Wifi> {
 		this.Frequency = Frequency;
 		this.Signal = Signal;
 	}
-/** This is the the toString that creates a new string with the relevant information.
- * 
- */
+
+	/**
+	 * This is the the toString that creates a new string with the relevant
+	 * information.
+	 */
 	public String toString() {
 		String str = SSID + ',' + MAC + ',' + Frequency + ',' + Signal;
 		return str;
@@ -64,7 +72,7 @@ public class Wifi implements Comparable<Wifi> {
 		return Lat;
 	}
 
-	public void setLat(String lat) { 
+	public void setLat(String lat) {
 		Lat = lat;
 	}
 
@@ -115,10 +123,11 @@ public class Wifi implements Comparable<Wifi> {
 	public void setSignal(String Signal) {
 		this.Signal = Signal;
 	}
-	
-/**This function compares each signal (the strength of wifi) and returns -1,0,1 
- * according to whether it is stronger, the same or weaker. 
- */
+
+	/**
+	 * This function compares each signal (the strength of wifi) and returns -1,0,1
+	 * according to whether it is stronger, the same or weaker.
+	 */
 	@Override
 	public int compareTo(Wifi o) {
 		int currentSignal = Integer.parseInt(this.Signal);

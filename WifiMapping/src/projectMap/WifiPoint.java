@@ -1,5 +1,11 @@
 package projectMap;
 
+/**
+ * This class represents all of the relevant information we need to fetch from
+ * the files.
+ * 
+ * @author Enna and Dana
+ */
 public class WifiPoint implements Comparable<WifiPoint> {
 	private String ssid;
 	private String mac;
@@ -11,6 +17,14 @@ public class WifiPoint implements Comparable<WifiPoint> {
 	private String alt;
 	private String time;
 
+	/**
+	 * THis is the constructor of the class.
+	 * 
+	 * @param ssid
+	 * @param mac
+	 * @param frequency
+	 * @param signal
+	 */
 	public WifiPoint(String ssid, String mac, String frequency, String signal) {
 		this.ssid = ssid;
 		this.mac = mac;
@@ -98,12 +112,20 @@ public class WifiPoint implements Comparable<WifiPoint> {
 		this.id = id;
 	}
 
+	/**
+	 * This is the the toString that creates a new string with the relevant
+	 * information.
+	 */
 	@Override
 	public String toString() {
 		String str = ssid + ',' + mac + ',' + frequency + ',' + signal;
 		return str;
 	}
 
+	/**
+	 * This function compares each signal (the strength of wifi) and returns -1,0,1
+	 * according to whether it is stronger, the same or weaker.
+	 */
 	@Override
 	public int compareTo(WifiPoint o) {
 		int currentSignal = Integer.parseInt(this.signal);

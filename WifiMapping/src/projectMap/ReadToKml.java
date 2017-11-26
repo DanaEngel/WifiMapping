@@ -11,21 +11,47 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
+/**
+ * This class filters by specific field and stores all of the data in an array
+ * list we created. It uses the library Map to group all of the same "mac"
+ * values.
+ * 
+ * @author Enna and Dana
+ *
+ */
 public class ReadToKml {
 	public List<WifiPoint> fileWifiPoints;
 	private Map<String, List<WifiPoint>> groupOfMac;
 	private File csvFile;
 
+	/**
+	 * This is the constructor of the class that gets a csv file and creates and
+	 * arraylist
+	 * 
+	 * @param csvFile
+	 *            - the csv file we created in the WifiMapping class.
+	 */
 	public ReadToKml(File csvFile) {
 		this.csvFile = csvFile;
 		fileWifiPoints = new ArrayList<WifiPoint>();
 		filterByParameter();
 	}
 
+	/**
+	 * this function returns the filtered list.
+	 * 
+	 * @return the filtered list
+	 */
 	public List<WifiPoint> getFilteredList() {
 		return fileWifiPoints;
 	}
 
+	/**
+	 * This function is the one that is responsible for filtering the data from
+	 * input that the user enters into the scanner. The function can filter by
+	 * place, by time and by ID. It also checks if the input the user enters is
+	 * correct.
+	 */
 	private void filterByParameter() {
 		if (!csvFile.exists()) {
 			return;
@@ -42,7 +68,7 @@ public class ReadToKml {
 		System.out.println("To filter by place press: 2");
 
 		try {
-			 state = Integer.parseInt(scanner.nextLine());
+			state = Integer.parseInt(scanner.nextLine());
 		} catch (Exception e) {
 			System.out.println("Not valid input");
 			return;
@@ -100,6 +126,14 @@ public class ReadToKml {
 		}
 	}
 
+	/**
+	 * This function filters by the time it gets.
+	 * 
+	 * @param network
+	 *            - is a line from csv file
+	 * @param value
+	 *            - input from the user that we need to filter by.
+	 */
 	private void filterByTime(String[] network, String value) {
 		int numberOfNetworks = Integer.parseInt(network[5]);
 		int index = 6;
@@ -129,6 +163,14 @@ public class ReadToKml {
 		}
 	}
 
+	/**
+	 * This function filters by ID it gets.
+	 * 
+	 * @param network
+	 *            - is a line from csv file
+	 * @param value
+	 *            - input from the user that we need to filter by.
+	 */
 	private void filterByID(String[] network, String value) {
 		int numberOfNetworks = Integer.parseInt(network[5]);
 		int index = 6;
@@ -158,6 +200,16 @@ public class ReadToKml {
 		}
 	}
 
+	/**
+	 * This function filters by the place it gets.
+	 * 
+	 * @param network
+	 *            - is a line from csv file
+	 * @param lat
+	 *            - input from the user that we need to filter by.
+	 * @param lon
+	 *            - input from the user that we need to filter by.
+	 */
 	private void filterByPlace(String[] network, String lat, String lon) {
 		int numberOfNetworks = Integer.parseInt(network[5]);
 		int index = 6;
