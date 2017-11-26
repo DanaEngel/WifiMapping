@@ -7,8 +7,7 @@ import de.micromata.opengis.kml.v_2_2_0.Kml;
 import de.micromata.opengis.kml.v_2_2_0.KmlFactory;
 import de.micromata.opengis.kml.v_2_2_0.TimeStamp;
 
-/**
- * This class is responsible for writing the filtered kml file. It takes the
+/** This class is responsible for writing the filtered kml file. It takes the
  * filtered arraylist we created in the ReadToKml class and writes it as the
  * user wants.
  * 
