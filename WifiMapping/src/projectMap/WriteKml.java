@@ -11,7 +11,6 @@ import de.micromata.opengis.kml.v_2_2_0.TimeStamp;
  * This class is responsible for writing the filtered KML file. It takes the
  * filtered arrayList we created in the ReadToKml class and writes it as the
  * user wants.
- * 
  * @author Dana and Enna
  */
 

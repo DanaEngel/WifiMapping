@@ -7,10 +7,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-/**
- * @author Enna and Dana This class contains the read from CSV (not formated)
+/**		   This class contains the read from CSV (not formated)
  *         and write to a new grouped and formated CSV file. it uses a Map - a
  *         data structure that help to group the relevant data together.
+ *         @author Enna and Dana
  */
 
 public class WifiMapping {
