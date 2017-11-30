@@ -1,8 +1,8 @@
 package projectMap;
 
-/**
- * This class represents all of the relevant information we need to fetch from
+/** This class represents all of the relevant information we need to fetch from
  * the files.
+ * 
  * @author Enna and Dana
  */
 public class Wifi implements Comparable<Wifi> {
@@ -124,7 +124,7 @@ public class Wifi implements Comparable<Wifi> {
 	}
 
 	/**
-	 * This function compares each signal (the strength of WiFi) and returns -1,0,1
+	 * This function compares each signal (the strength of wifi) and returns -1,0,1
 	 * according to whether it is stronger, the same or weaker.
 	 */
 	@Override
