@@ -1,6 +1,6 @@
 # WifiMappingProject
 Welcome to our project. 
-To correctly run our program you first of all need to install external java libraries (jars) that are attached to the project. 
+To correctly run our program you first of all need to install external java libraries (jars) that are attached to the project (located in external files folder). 
 These libraries are needed in order to write the KML files. 
 
 This project works with the format that the WigleWifi application exports from your mobile phone to a CSV file. 
