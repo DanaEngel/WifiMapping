@@ -2,5 +2,2800 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
     <Document>
         <name>kml_document</name>
+        <Placemark>
+            <name>BEZEQINT-2A59</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BEZEQINT-2A59&lt;br&gt;Time: 2017-10-31 13:30:09&lt;br&gt;Mac: 14:ae:db:a3:2a:5d&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -88</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:09</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10450237,32.10596038,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yulya2.4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yulya2.4&lt;br&gt;Time: 2017-10-31 13:30:09&lt;br&gt;Mac: c4:12:f5:f6:4f:5a&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:09</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10450237,32.10596038,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yair</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yair&lt;br&gt;Time: 2017-10-31 13:30:09&lt;br&gt;Mac: 7c:b7:33:2b:d0:45&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:09</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10450237,32.10596038,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>amram</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: amram&lt;br&gt;Time: 2017-10-31 13:30:07&lt;br&gt;Mac: 14:ae:db:4d:44:a5&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -77</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:07</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1044623,32.10605263,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>drabkin</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: drabkin&lt;br&gt;Time: 2017-10-31 13:30:07&lt;br&gt;Mac: c4:12:f5:f4:de:7c&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -72</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:07</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1044623,32.10605263,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:30:05&lt;br&gt;Mac: 42501_7213_5429762&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:05</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10441133,32.10613601,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>drabkin</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: drabkin&lt;br&gt;Time: 2017-10-31 13:30:05&lt;br&gt;Mac: c4:12:f5:f4:de:7c&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:05</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10441133,32.10613601,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>mirk</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: mirk&lt;br&gt;Time: 2017-10-31 13:30:01&lt;br&gt;Mac: d0:0f:6d:f1:1a:c7&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 5&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:01</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10429631,32.10631156,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bezeq Free</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Bezeq Free&lt;br&gt;Time: 2017-10-31 13:30:01&lt;br&gt;Mac: 62:ee:0c:3e:e1:c4&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 3&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:01</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10429631,32.10631156,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>galina2005</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: galina2005&lt;br&gt;Time: 2017-10-31 13:30:01&lt;br&gt;Mac: 48:ee:0c:3e:e1:c7&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 3&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:01</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10429631,32.10631156,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>elad</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: elad&lt;br&gt;Time: 2017-10-31 13:28:52&lt;br&gt;Mac: 6c:b0:ce:2e:89:c9&lt;br&gt;Altitude: 400&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:52</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10592865,32.10789705,400.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>shay1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: shay1&lt;br&gt;Time: 2017-10-31 13:28:52&lt;br&gt;Mac: 10:be:f5:35:3d:3a&lt;br&gt;Altitude: 400&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:52</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10592865,32.10789705,400.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK_Extender_F125C5</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK_Extender_F125C5&lt;br&gt;Time: 2017-10-31 13:28:52&lt;br&gt;Mac: 14:cc:20:f1:25:c5&lt;br&gt;Altitude: 400&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:52</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10592865,32.10789705,400.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bar-ozhot</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Bar-ozhot&lt;br&gt;Time: 2017-10-31 13:28:52&lt;br&gt;Mac: 00:78:9e:ff:95:6e&lt;br&gt;Altitude: 400&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:52</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10592865,32.10789705,400.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK_E695F0</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK_E695F0&lt;br&gt;Time: 2017-10-31 13:28:52&lt;br&gt;Mac: b0:48:7a:e6:95:f0&lt;br&gt;Altitude: 400&lt;br&gt;Frequency: 4&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:52</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10592865,32.10789705,400.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>haim</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: haim&lt;br&gt;Time: 2017-10-31 13:28:52&lt;br&gt;Mac: e4:6f:13:72:65:18&lt;br&gt;Altitude: 400&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:52</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10592865,32.10789705,400.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>esti</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: esti&lt;br&gt;Time: 2017-10-31 13:28:52&lt;br&gt;Mac: 00:90:8f:63:68:8c&lt;br&gt;Altitude: 400&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:52</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10592865,32.10789705,400.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>lior</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: lior&lt;br&gt;Time: 2017-10-31 13:28:52&lt;br&gt;Mac: d8:fe:e3:03:59:99&lt;br&gt;Altitude: 400&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:52</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10592865,32.10789705,400.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:28:52&lt;br&gt;Mac: 42501_7213_5455362&lt;br&gt;Altitude: 400&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:52</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10592865,32.10789705,400.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK_E695F0</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK_E695F0&lt;br&gt;Time: 2017-10-31 13:29:26&lt;br&gt;Mac: b0:48:7a:e6:95:f0&lt;br&gt;Altitude: 446&lt;br&gt;Frequency: 4&lt;br&gt;Signal: -67</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:26</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10502751,32.10764534,446.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>26604934</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: 26604934&lt;br&gt;Time: 2017-10-31 13:29:26&lt;br&gt;Mac: 14:ae:db:58:4e:4d&lt;br&gt;Altitude: 446&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:26</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10502751,32.10764534,446.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-802E_2GExt</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-802E_2GExt&lt;br&gt;Time: 2017-10-31 13:28:56&lt;br&gt;Mac: d0:0e:d9:21:c2:a8&lt;br&gt;Altitude: 418&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:56</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10590613,32.10796579,418.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK_E695F0</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK_E695F0&lt;br&gt;Time: 2017-10-31 13:29:28&lt;br&gt;Mac: b0:48:7a:e6:95:f0&lt;br&gt;Altitude: 434&lt;br&gt;Frequency: 4&lt;br&gt;Signal: -62</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:28</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10502002,32.10783205,434.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>esti</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: esti&lt;br&gt;Time: 2017-10-31 13:28:54&lt;br&gt;Mac: 00:90:8f:63:68:8c&lt;br&gt;Altitude: 414&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -75</description>
+            <TimeStamp>
+                <when>2017-10-31 13:28:54</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10593014,32.10793115,414.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>biton10</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: biton10&lt;br&gt;Time: 2017-10-31 13:29:22&lt;br&gt;Mac: e8:94:f6:ee:d4:e4&lt;br&gt;Altitude: 446&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:22</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10549985,32.10769081,446.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HP-Print-22-Officejet 6700</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HP-Print-22-Officejet 6700&lt;br&gt;Time: 2017-10-31 13:29:24&lt;br&gt;Mac: a0:d3:c1:87:e9:22&lt;br&gt;Altitude: 451&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:24</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10531637,32.10765976,451.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>korait</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: korait&lt;br&gt;Time: 2017-10-31 13:29:24&lt;br&gt;Mac: 30:b5:c2:f4:21:31&lt;br&gt;Altitude: 451&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -65</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:24</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10531637,32.10765976,451.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>korait</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: korait&lt;br&gt;Time: 2017-10-31 13:29:24&lt;br&gt;Mac: 14:ae:db:54:59:ed&lt;br&gt;Altitude: 451&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:24</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10531637,32.10765976,451.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Amirgaby1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Amirgaby1&lt;br&gt;Time: 2017-10-31 13:30:19&lt;br&gt;Mac: 50:c7:bf:e5:20:4d&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 3&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:19</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10485775,32.10542347,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yair</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yair&lt;br&gt;Time: 2017-10-31 13:30:17&lt;br&gt;Mac: 7c:b7:33:2b:d0:45&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -76</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:17</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1047929,32.10553687,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yair1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yair1&lt;br&gt;Time: 2017-10-31 13:30:17&lt;br&gt;Mac: 00:23:cd:15:95:90&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:17</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1047929,32.10553687,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name></name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: &lt;br&gt;Time: 2017-10-31 13:30:17&lt;br&gt;Mac: _22811_5371435&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -89</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:17</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1047929,32.10553687,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Glik2</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Glik2&lt;br&gt;Time: 2017-10-31 13:30:15&lt;br&gt;Mac: b0:b2:8f:1e:7f:6a&lt;br&gt;Altitude: 458&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:15</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10471842,32.10564104,458.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>amram</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: amram&lt;br&gt;Time: 2017-10-31 13:30:15&lt;br&gt;Mac: 18:a6:f7:b0:1c:ba&lt;br&gt;Altitude: 458&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:15</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10471842,32.10564104,458.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:30:13&lt;br&gt;Mac: 42501_7213_5429762&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:13</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10464464,32.10572759,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Other</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Other&lt;br&gt;Time: 2017-10-31 13:30:13&lt;br&gt;Mac: c0:a0:bb:cb:36:3c&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:13</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10464464,32.10572759,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BEZEQINT-9369</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BEZEQINT-9369&lt;br&gt;Time: 2017-10-31 13:30:13&lt;br&gt;Mac: 14:ae:db:55:93:6d&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -77</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:13</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10464464,32.10572759,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BEZEQINT-2A59</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BEZEQINT-2A59&lt;br&gt;Time: 2017-10-31 13:30:11&lt;br&gt;Mac: 14:ae:db:a3:2a:5d&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:11</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10456393,32.10583463,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BEZEQINT-9369</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BEZEQINT-9369&lt;br&gt;Time: 2017-10-31 13:30:11&lt;br&gt;Mac: 14:ae:db:55:93:6d&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:11</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10456393,32.10583463,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>DIAMANT</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: DIAMANT&lt;br&gt;Time: 2017-10-31 13:29:30&lt;br&gt;Mac: 48:ee:0c:3f:ac:6b&lt;br&gt;Altitude: 471&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:30</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10490457,32.10750765,471.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>elad</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: elad&lt;br&gt;Time: 2017-10-31 13:29:30&lt;br&gt;Mac: 6c:b0:ce:2e:89:c9&lt;br&gt;Altitude: 471&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:30</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10490457,32.10750765,471.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>shay1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: shay1&lt;br&gt;Time: 2017-10-31 13:29:30&lt;br&gt;Mac: 10:be:f5:35:3d:3a&lt;br&gt;Altitude: 471&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:30</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10490457,32.10750765,471.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:29:30&lt;br&gt;Mac: 42501_7213_5455362&lt;br&gt;Altitude: 471&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:30</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10490457,32.10750765,471.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>debi</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: debi&lt;br&gt;Time: 2017-10-31 13:29:37&lt;br&gt;Mac: 14:ae:db:30:6f:82&lt;br&gt;Altitude: 449&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -75</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:37</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10469071,32.10721314,449.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:29:38&lt;br&gt;Mac: 42501_10072_479968&lt;br&gt;Altitude: 440&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:38</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460258,32.10728848,440.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BenodizL</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BenodizL&lt;br&gt;Time: 2017-10-31 13:29:33&lt;br&gt;Mac: 14:ae:db:cd:5f:aa&lt;br&gt;Altitude: 518&lt;br&gt;Frequency: 2&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:33</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10487962,32.10736557,518.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>DIAMANT</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: DIAMANT&lt;br&gt;Time: 2017-10-31 13:29:35&lt;br&gt;Mac: 48:ee:0c:3f:ac:6b&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460658,32.10707057,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Diamant1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Diamant1&lt;br&gt;Time: 2017-10-31 13:29:35&lt;br&gt;Mac: 44:33:4c:fc:7f:6f&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460658,32.10707057,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>debi</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: debi&lt;br&gt;Time: 2017-10-31 13:29:35&lt;br&gt;Mac: 14:ae:db:30:6f:82&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460658,32.10707057,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bar-ozhot</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Bar-ozhot&lt;br&gt;Time: 2017-10-31 13:29:35&lt;br&gt;Mac: 00:78:9e:ff:95:6e&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460658,32.10707057,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BezeqFree</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BezeqFree&lt;br&gt;Time: 2017-10-31 13:29:35&lt;br&gt;Mac: 06:ae:db:3a:6d:0d&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460658,32.10707057,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>haim</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: haim&lt;br&gt;Time: 2017-10-31 13:29:35&lt;br&gt;Mac: e4:6f:13:72:65:18&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460658,32.10707057,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Diamant_2EX</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Diamant_2EX&lt;br&gt;Time: 2017-10-31 13:29:35&lt;br&gt;Mac: 80:1f:02:e9:06:6e&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460658,32.10707057,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>noyman</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: noyman&lt;br&gt;Time: 2017-10-31 13:29:35&lt;br&gt;Mac: c4:e9:84:50:b1:d3&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 2&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460658,32.10707057,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BEZEQINT-EC61</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BEZEQINT-EC61&lt;br&gt;Time: 2017-10-31 13:29:35&lt;br&gt;Mac: 14:ae:db:cf:ec:65&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460658,32.10707057,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>noyman2</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: noyman2&lt;br&gt;Time: 2017-10-31 13:29:35&lt;br&gt;Mac: c4:a8:1d:14:54:2e&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10460658,32.10707057,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bezeq Free 035998</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Bezeq Free 035998&lt;br&gt;Time: 2017-10-31 13:29:06&lt;br&gt;Mac: 5a:fe:e3:03:59:9a&lt;br&gt;Altitude: 418&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10576403,32.10810885,418.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>bitton</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: bitton&lt;br&gt;Time: 2017-10-31 13:29:06&lt;br&gt;Mac: 14:ae:db:3a:6d:0d&lt;br&gt;Altitude: 418&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10576403,32.10810885,418.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK_E695F0</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK_E695F0&lt;br&gt;Time: 2017-10-31 13:29:06&lt;br&gt;Mac: b0:48:7a:e6:95:f0&lt;br&gt;Altitude: 418&lt;br&gt;Frequency: 4&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10576403,32.10810885,418.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BezeqFree</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BezeqFree&lt;br&gt;Time: 2017-10-31 13:29:06&lt;br&gt;Mac: 06:ae:db:3a:6d:0d&lt;br&gt;Altitude: 418&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10576403,32.10810885,418.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-802E_2GExt</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-802E_2GExt&lt;br&gt;Time: 2017-10-31 13:29:06&lt;br&gt;Mac: d0:0e:d9:21:c2:a8&lt;br&gt;Altitude: 418&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10576403,32.10810885,418.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>haim</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: haim&lt;br&gt;Time: 2017-10-31 13:29:06&lt;br&gt;Mac: e4:6f:13:72:65:18&lt;br&gt;Altitude: 418&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10576403,32.10810885,418.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>korait</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: korait&lt;br&gt;Time: 2017-10-31 13:29:06&lt;br&gt;Mac: 30:b5:c2:f4:21:31&lt;br&gt;Altitude: 418&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10576403,32.10810885,418.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-802E</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-802E&lt;br&gt;Time: 2017-10-31 13:29:06&lt;br&gt;Mac: 00:78:9e:fa:b4:81&lt;br&gt;Altitude: 418&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10576403,32.10810885,418.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BEZEQINT-EC61</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BEZEQINT-EC61&lt;br&gt;Time: 2017-10-31 13:29:06&lt;br&gt;Mac: 14:ae:db:cf:ec:65&lt;br&gt;Altitude: 418&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10576403,32.10810885,418.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:33:39&lt;br&gt;Mac: 42501_10072_2147483647&lt;br&gt;Altitude: 474&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:39</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10594712,32.1077982,474.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name></name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: &lt;br&gt;Time: 2017-10-31 13:33:36&lt;br&gt;Mac: f4:f2:6d:8d:9d:80&lt;br&gt;Altitude: 471&lt;br&gt;Frequency: 8&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:36</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10596683,32.10779533,471.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>shay1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: shay1&lt;br&gt;Time: 2017-10-31 13:34:04&lt;br&gt;Mac: 10:be:f5:35:3d:3a&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -59</description>
+            <TimeStamp>
+                <when>2017-10-31 13:34:04</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10594751,32.10779808,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Eli</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Eli&lt;br&gt;Time: 2017-10-31 13:33:42&lt;br&gt;Mac: c4:12:f5:fd:37:e8&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -75</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:42</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10594767,32.10779825,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>shay1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: shay1&lt;br&gt;Time: 2017-10-31 13:34:07&lt;br&gt;Mac: 10:be:f5:35:3d:3a&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -50</description>
+            <TimeStamp>
+                <when>2017-10-31 13:34:07</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10594751,32.10779813,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:34:07&lt;br&gt;Mac: 42501_7121_16768001&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:34:07</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10594751,32.10779813,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:34:13&lt;br&gt;Mac: 42501_7121_7697922&lt;br&gt;Altitude: 476&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:34:13</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10594797,32.10779818,476.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>shay1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: shay1&lt;br&gt;Time: 2017-10-31 13:34:16&lt;br&gt;Mac: 10:be:f5:35:3d:3a&lt;br&gt;Altitude: 476&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -44</description>
+            <TimeStamp>
+                <when>2017-10-31 13:34:16</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10594799,32.10779818,476.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:33:18&lt;br&gt;Mac: 42501_10072_480070&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:18</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10593231,32.10772117,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>shay1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: shay1&lt;br&gt;Time: 2017-10-31 13:33:18&lt;br&gt;Mac: 10:be:f5:35:3d:3a&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -76</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:18</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10593231,32.10772117,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Eli</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Eli&lt;br&gt;Time: 2017-10-31 13:33:12&lt;br&gt;Mac: c4:12:f5:fd:37:e8&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:12</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10591666,32.10770988,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>zelikman</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: zelikman&lt;br&gt;Time: 2017-10-31 13:33:12&lt;br&gt;Mac: c4:12:f5:f7:35:00&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 3&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:12</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10591666,32.10770988,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>shay1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: shay1&lt;br&gt;Time: 2017-10-31 13:33:28&lt;br&gt;Mac: 10:be:f5:35:3d:3a&lt;br&gt;Altitude: 471&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -69</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:28</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10596693,32.10775639,471.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>esti</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: esti&lt;br&gt;Time: 2017-10-31 13:32:57&lt;br&gt;Mac: 00:90:8f:63:68:8c&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -70</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:57</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10592277,32.1077236,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:34:01&lt;br&gt;Mac: 42501_7213_5455362&lt;br&gt;Altitude: 476&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -91</description>
+            <TimeStamp>
+                <when>2017-10-31 13:34:01</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10594744,32.10779801,476.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bezeq_WiFi_2.4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Bezeq_WiFi_2.4&lt;br&gt;Time: 2017-10-31 13:33:23&lt;br&gt;Mac: c4:12:f5:81:52:44&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:23</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1059314,32.10772094,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>~~AZZOUN~~</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: ~~AZZOUN~~&lt;br&gt;Time: 2017-10-31 13:33:23&lt;br&gt;Mac: 30:b5:c2:b8:3e:4e&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 5&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:23</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1059314,32.10772094,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yakar-Ezra</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yakar-Ezra&lt;br&gt;Time: 2017-10-31 13:31:19&lt;br&gt;Mac: c4:04:15:63:4d:76&lt;br&gt;Altitude: 454&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:19</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10791421,32.105504,454.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:31:17&lt;br&gt;Mac: 42501_10072_470801&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -69</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:17</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10788246,32.1054233,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Einats17</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Einats17&lt;br&gt;Time: 2017-10-31 13:31:17&lt;br&gt;Mac: c0:ac:54:f8:29:f8&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:17</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10788246,32.1054233,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>sh-home</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: sh-home&lt;br&gt;Time: 2017-10-31 13:30:49&lt;br&gt;Mac: e8:94:f6:87:72:e0&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:49</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10648365,32.10499028,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:30:49&lt;br&gt;Mac: 42501_10072_2147483647&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:49</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10648365,32.10499028,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>DIRECT-1FPhaser 3020</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: DIRECT-1FPhaser 3020&lt;br&gt;Time: 2017-10-31 13:30:49&lt;br&gt;Mac: 9e:93:4e:36:5a:79&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -75</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:49</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10648365,32.10499028,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BezeqNGN_011207_2.4GHz_1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BezeqNGN_011207_2.4GHz_1&lt;br&gt;Time: 2017-10-31 13:31:15&lt;br&gt;Mac: f8:e9:03:0e:7e:e0&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:15</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10779339,32.10533837,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>NAGARF</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: NAGARF&lt;br&gt;Time: 2017-10-31 13:31:15&lt;br&gt;Mac: 6c:b0:ce:aa:97:a1&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:15</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10779339,32.10533837,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BEZEQINT-2A79</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BEZEQINT-2A79&lt;br&gt;Time: 2017-10-31 13:31:15&lt;br&gt;Mac: 14:ae:db:45:2a:7d&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:15</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10779339,32.10533837,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>bezeq_net 2.4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: bezeq_net 2.4&lt;br&gt;Time: 2017-10-31 13:30:47&lt;br&gt;Mac: ac:f1:df:18:67:4e&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:47</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1063814,32.10502426,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yuval2.4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yuval2.4&lt;br&gt;Time: 2017-10-31 13:30:45&lt;br&gt;Mac: 6c:b0:ce:a5:84:8b&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -77</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:45</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10627652,32.10502673,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Nimkovsky</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Nimkovsky&lt;br&gt;Time: 2017-10-31 13:30:45&lt;br&gt;Mac: 10:be:f5:35:2a:20&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -77</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:45</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10627652,32.10502673,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-A8FE</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-A8FE&lt;br&gt;Time: 2017-10-31 13:31:10&lt;br&gt;Mac: f8:ab:05:ef:1e:a3&lt;br&gt;Altitude: 464&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:10</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10750255,32.10507601,464.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HP-Print-8D-Officejet 6700</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HP-Print-8D-Officejet 6700&lt;br&gt;Time: 2017-10-31 13:30:43&lt;br&gt;Mac: a4:5d:36:b9:86:8d&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:43</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10616739,32.10504907,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>bezeq_net 2.4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: bezeq_net 2.4&lt;br&gt;Time: 2017-10-31 13:30:43&lt;br&gt;Mac: ac:f1:df:18:67:4e&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:43</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10616739,32.10504907,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>galit1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: galit1&lt;br&gt;Time: 2017-10-31 13:30:51&lt;br&gt;Mac: cc:b2:55:e7:84:b9&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -75</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:51</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10662817,32.10495495,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HayHome_plus</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HayHome_plus&lt;br&gt;Time: 2017-10-31 13:31:27&lt;br&gt;Mac: 34:ce:00:1e:ea:e7&lt;br&gt;Altitude: 460&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:27</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10802269,32.10588314,460.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HayHome</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HayHome&lt;br&gt;Time: 2017-10-31 13:31:27&lt;br&gt;Mac: d0:0f:6d:c2:23:09&lt;br&gt;Altitude: 460&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:27</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10802269,32.10588314,460.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>spiderman</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: spiderman&lt;br&gt;Time: 2017-10-31 13:31:25&lt;br&gt;Mac: c8:be:19:0c:68:49&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:25</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10799994,32.10579406,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>lotus</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: lotus&lt;br&gt;Time: 2017-10-31 13:31:25&lt;br&gt;Mac: a4:52:6f:ff:4e:19&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -60</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:25</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10799994,32.10579406,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK </name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK &lt;br&gt;Time: 2017-10-31 13:31:25&lt;br&gt;Mac: 60:e3:27:6c:87:4e&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:25</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10799994,32.10579406,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-6D701</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-6D701&lt;br&gt;Time: 2017-10-31 13:31:25&lt;br&gt;Mac: f8:ab:05:48:2a:6f&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -76</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:25</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10799994,32.10579406,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>AEH-W4A1-b0411d283bc1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: AEH-W4A1-b0411d283bc1&lt;br&gt;Time: 2017-10-31 13:30:57&lt;br&gt;Mac: b0:41:1d:28:3b:c1&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:57</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10691076,32.10494912,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mali_2.4G</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Mali_2.4G&lt;br&gt;Time: 2017-10-31 13:30:57&lt;br&gt;Mac: c4:12:f5:81:83:97&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:57</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10691076,32.10494912,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Chen and shay</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Chen and shay&lt;br&gt;Time: 2017-10-31 13:30:57&lt;br&gt;Mac: a0:ab:1b:62:64:78&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -89</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:57</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10691076,32.10494912,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>lotus</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: lotus&lt;br&gt;Time: 2017-10-31 13:31:23&lt;br&gt;Mac: a4:52:6f:ff:4e:19&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:23</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10798523,32.10569487,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Naor</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Naor&lt;br&gt;Time: 2017-10-31 13:30:55&lt;br&gt;Mac: 50:c7:bf:b0:b1:85&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 5&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:55</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10681112,32.10492407,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:30:55&lt;br&gt;Mac: 42501_10072_470801&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -73</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:55</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10681112,32.10492407,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>galit1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: galit1&lt;br&gt;Time: 2017-10-31 13:30:53&lt;br&gt;Mac: cc:b2:55:e7:84:b9&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -68</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:53</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10673049,32.10492757,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>OpalixinHome</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: OpalixinHome&lt;br&gt;Time: 2017-10-31 13:30:53&lt;br&gt;Mac: 3c:1e:04:07:45:80&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:53</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10673049,32.10492757,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BezeqFree</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BezeqFree&lt;br&gt;Time: 2017-10-31 13:30:29&lt;br&gt;Mac: 14:af:db:be:65:62&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:29</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10526371,32.10519513,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>eden2.4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: eden2.4&lt;br&gt;Time: 2017-10-31 13:30:29&lt;br&gt;Mac: c4:12:f5:81:ba:7c&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:29</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10526371,32.10519513,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Amirgaby1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Amirgaby1&lt;br&gt;Time: 2017-10-31 13:30:29&lt;br&gt;Mac: 50:c7:bf:e5:20:4d&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 3&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:29</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10526371,32.10519513,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX&lt;br&gt;Time: 2017-10-31 13:30:29&lt;br&gt;Mac: 00:78:9e:fb:40:12&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:29</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10526371,32.10519513,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX&lt;br&gt;Time: 2017-10-31 13:30:27&lt;br&gt;Mac: 00:78:9e:fb:40:12&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -89</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:27</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10513887,32.10523397,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>milagrankin1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: milagrankin1&lt;br&gt;Time: 2017-10-31 13:30:25&lt;br&gt;Mac: 20:0c:c8:0f:b9:dd&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -77</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:25</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1050658,32.10528987,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Wi-Fi Home 2.4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Wi-Fi Home 2.4&lt;br&gt;Time: 2017-10-31 13:30:23&lt;br&gt;Mac: 14:ae:db:be:cf:1a&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 3&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:23</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10502545,32.10529566,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>milagrankin1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: milagrankin1&lt;br&gt;Time: 2017-10-31 13:30:23&lt;br&gt;Mac: 20:0c:c8:0f:b9:dd&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:23</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10502545,32.10529566,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yuv_EXT</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yuv_EXT&lt;br&gt;Time: 2017-10-31 13:30:21&lt;br&gt;Mac: c0:a0:bb:8f:2a:bd&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -74</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:21</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10494649,32.10534661,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yadin AirPort</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yadin AirPort&lt;br&gt;Time: 2017-10-31 13:29:41&lt;br&gt;Mac: 64:a5:c3:6f:4f:d8&lt;br&gt;Altitude: 450&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -88</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:41</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10455874,32.10729626,450.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Hasson Home_2EX</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Hasson Home_2EX&lt;br&gt;Time: 2017-10-31 13:29:41&lt;br&gt;Mac: 74:da:38:13:f5:0c&lt;br&gt;Altitude: 450&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:41</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10455874,32.10729626,450.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:29:43&lt;br&gt;Mac: 42501_7213_5429762&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:43</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10437176,32.10716989,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>noyman</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: noyman&lt;br&gt;Time: 2017-10-31 13:29:43&lt;br&gt;Mac: c4:e9:84:50:b1:d3&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 2&lt;br&gt;Signal: -76</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:43</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10437176,32.10716989,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yadin AirPort</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yadin AirPort&lt;br&gt;Time: 2017-10-31 13:29:43&lt;br&gt;Mac: 64:a5:c3:6f:4f:d8&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:43</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10437176,32.10716989,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>atamy</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: atamy&lt;br&gt;Time: 2017-10-31 13:29:43&lt;br&gt;Mac: f8:ab:05:46:c0:00&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -88</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:43</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10437176,32.10716989,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>atamy</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: atamy&lt;br&gt;Time: 2017-10-31 13:29:49&lt;br&gt;Mac: 08:6a:0a:37:69:17&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:49</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10430262,32.10699397,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>MARChome</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: MARChome&lt;br&gt;Time: 2017-10-31 13:29:45&lt;br&gt;Mac: cc:b2:55:e9:b3:e7&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:45</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10432117,32.10714084,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>EdimaxAPbe</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: EdimaxAPbe&lt;br&gt;Time: 2017-10-31 13:29:45&lt;br&gt;Mac: 80:1f:02:e9:06:be&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 2&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:45</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10432117,32.10714084,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>atamy</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: atamy&lt;br&gt;Time: 2017-10-31 13:29:47&lt;br&gt;Mac: f8:ab:05:46:c0:00&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -73</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:47</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10434401,32.10705461,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-45</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-45&lt;br&gt;Time: 2017-10-31 13:29:47&lt;br&gt;Mac: f8:ab:05:f3:db:9b&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:47</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10434401,32.10705461,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Hershko1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Hershko1&lt;br&gt;Time: 2017-10-31 13:30:39&lt;br&gt;Mac: c4:12:f5:81:c7:00&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:39</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10591067,32.1050981,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BezeqFree</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: BezeqFree&lt;br&gt;Time: 2017-10-31 13:30:39&lt;br&gt;Mac: 06:ae:db:b6:a2:75&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:39</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10591067,32.1050981,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>karen</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: karen&lt;br&gt;Time: 2017-10-31 13:30:39&lt;br&gt;Mac: 14:ae:db:b6:a2:75&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -75</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:39</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10591067,32.1050981,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-A8FE</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-A8FE&lt;br&gt;Time: 2017-10-31 13:31:08&lt;br&gt;Mac: f8:ab:05:44:94:56&lt;br&gt;Altitude: 467&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:08</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10740408,32.10505835,467.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>DIRECT-59-HP DeskJet 3830 series</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: DIRECT-59-HP DeskJet 3830 series&lt;br&gt;Time: 2017-10-31 13:31:08&lt;br&gt;Mac: fc:3f:db:a0:61:d6&lt;br&gt;Altitude: 467&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:08</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10740408,32.10505835,467.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>ohayon_1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: ohayon_1&lt;br&gt;Time: 2017-10-31 13:30:37&lt;br&gt;Mac: ac:f1:df:9d:ae:b9&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:37</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10580416,32.10512302,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>karen</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: karen&lt;br&gt;Time: 2017-10-31 13:30:37&lt;br&gt;Mac: 14:ae:db:b6:a2:75&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:37</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10580416,32.10512302,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:30:37&lt;br&gt;Mac: 42501_10072_479982&lt;br&gt;Altitude: 456&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -91</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:37</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10580416,32.10512302,456.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-A8FE</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-A8FE&lt;br&gt;Time: 2017-10-31 13:31:06&lt;br&gt;Mac: f8:ab:05:43:f6:f5&lt;br&gt;Altitude: 466&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10733195,32.10503821,466.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>AviPetan</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: AviPetan&lt;br&gt;Time: 2017-10-31 13:31:06&lt;br&gt;Mac: f4:f2:6d:5e:a9:7a&lt;br&gt;Altitude: 466&lt;br&gt;Frequency: 4&lt;br&gt;Signal: -67</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10733195,32.10503821,466.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>AviPetan</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: AviPetan&lt;br&gt;Time: 2017-10-31 13:31:06&lt;br&gt;Mac: 00:12:2a:d1:8f:b8&lt;br&gt;Altitude: 466&lt;br&gt;Frequency: 4&lt;br&gt;Signal: -71</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10733195,32.10503821,466.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-A8FE</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-A8FE&lt;br&gt;Time: 2017-10-31 13:31:06&lt;br&gt;Mac: fc:b4:e6:d2:a9:04&lt;br&gt;Altitude: 466&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10733195,32.10503821,466.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTFiber-8B14</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTFiber-8B14&lt;br&gt;Time: 2017-10-31 13:30:35&lt;br&gt;Mac: 7c:b7:33:97:39:87&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -75</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10567417,32.10515721,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:30:35&lt;br&gt;Mac: 42501_10072_516880&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -91</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:35</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10567417,32.10515721,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>AviPetan</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: AviPetan&lt;br&gt;Time: 2017-10-31 13:31:04&lt;br&gt;Mac: f4:f2:6d:5e:a9:7a&lt;br&gt;Altitude: 464&lt;br&gt;Frequency: 4&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:04</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10725586,32.10503222,464.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>AviPetan</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: AviPetan&lt;br&gt;Time: 2017-10-31 13:31:04&lt;br&gt;Mac: 00:12:2a:d1:8f:b8&lt;br&gt;Altitude: 464&lt;br&gt;Frequency: 4&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:04</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10725586,32.10503222,464.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>AviPetan2</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: AviPetan2&lt;br&gt;Time: 2017-10-31 13:31:04&lt;br&gt;Mac: 00:12:2a:d1:8f:bc&lt;br&gt;Altitude: 464&lt;br&gt;Frequency: 36&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:04</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10725586,32.10503222,464.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Naor</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Naor&lt;br&gt;Time: 2017-10-31 13:31:01&lt;br&gt;Mac: 50:c7:bf:b0:b1:85&lt;br&gt;Altitude: 463&lt;br&gt;Frequency: 5&lt;br&gt;Signal: -72</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:01</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10711733,32.10503176,463.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Naor 5G</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Naor 5G&lt;br&gt;Time: 2017-10-31 13:31:01&lt;br&gt;Mac: 50:c7:bf:b0:b1:87&lt;br&gt;Altitude: 463&lt;br&gt;Frequency: 36&lt;br&gt;Signal: -89</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:01</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10711733,32.10503176,463.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>RamBeni</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: RamBeni&lt;br&gt;Time: 2017-10-31 13:31:01&lt;br&gt;Mac: c4:04:15:60:ef:75&lt;br&gt;Altitude: 463&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:01</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10711733,32.10503176,463.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>eden2.4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: eden2.4&lt;br&gt;Time: 2017-10-31 13:30:33&lt;br&gt;Mac: c4:12:f5:81:ba:7c&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -69</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:33</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10554476,32.1051766,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>afrat</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: afrat&lt;br&gt;Time: 2017-10-31 13:30:33&lt;br&gt;Mac: 00:78:9e:fa:af:ff&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -77</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:33</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10554476,32.1051766,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>eden5</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: eden5&lt;br&gt;Time: 2017-10-31 13:30:33&lt;br&gt;Mac: c4:12:f5:81:ba:7d&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 48&lt;br&gt;Signal: -89</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:33</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10554476,32.1051766,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>sima2.4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: sima2.4&lt;br&gt;Time: 2017-10-31 13:30:33&lt;br&gt;Mac: 04:a1:51:c4:2b:2b&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:33</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10554476,32.1051766,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Oren</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Oren&lt;br&gt;Time: 2017-10-31 13:30:31&lt;br&gt;Mac: 14:ae:db:be:65:62&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:31</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10541765,32.10519213,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>sharvit4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: sharvit4&lt;br&gt;Time: 2017-10-31 13:29:51&lt;br&gt;Mac: c4:12:f5:f6:c8:cc&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:51</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10425173,32.10689452,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HP-Print-5E-Deskjet 4640 series</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HP-Print-5E-Deskjet 4640 series&lt;br&gt;Time: 2017-10-31 13:29:51&lt;br&gt;Mac: d0:bf:9c:ac:50:5e&lt;br&gt;Altitude: 457&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:51</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10425173,32.10689452,457.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yuval2.4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yuval2.4&lt;br&gt;Time: 2017-10-31 13:30:41&lt;br&gt;Mac: 6c:b0:ce:a5:84:8b&lt;br&gt;Altitude: 460&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:41</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10603097,32.10505865,460.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Nimkovsky</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Nimkovsky&lt;br&gt;Time: 2017-10-31 13:30:41&lt;br&gt;Mac: 10:be:f5:35:2a:20&lt;br&gt;Altitude: 460&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:30:41</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10603097,32.10505865,460.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-45</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-45&lt;br&gt;Time: 2017-10-31 13:29:53&lt;br&gt;Mac: 08:6a:0a:69:f9:96&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:53</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10423681,32.10679294,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-45</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-45&lt;br&gt;Time: 2017-10-31 13:29:53&lt;br&gt;Mac: f8:ab:05:f3:db:9b&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -75</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:53</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10423681,32.10679294,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Omer-EXT</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Omer-EXT&lt;br&gt;Time: 2017-10-31 13:29:53&lt;br&gt;Mac: c4:12:f5:1a:0a:fe&lt;br&gt;Altitude: 455&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:53</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10423681,32.10679294,455.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK_FF70CD</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK_FF70CD&lt;br&gt;Time: 2017-10-31 13:29:59&lt;br&gt;Mac: 54:e6:fc:ff:70:cd&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:59</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10426614,32.10644228,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>idit34</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: idit34&lt;br&gt;Time: 2017-10-31 13:29:59&lt;br&gt;Mac: e4:6f:13:71:a4:2a&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 7&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:59</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10426614,32.10644228,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-45</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-45&lt;br&gt;Time: 2017-10-31 13:29:55&lt;br&gt;Mac: b0:b2:8f:40:db:57&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:55</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10421186,32.10667102,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK_AP_AD18</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK_AP_AD18&lt;br&gt;Time: 2017-10-31 13:29:55&lt;br&gt;Mac: 98:de:d0:c7:ad:18&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:55</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10421186,32.10667102,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>LimorOfri</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: LimorOfri&lt;br&gt;Time: 2017-10-31 13:29:55&lt;br&gt;Mac: f8:e9:03:11:33:47&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:55</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10421186,32.10667102,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Omer</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Omer&lt;br&gt;Time: 2017-10-31 13:29:55&lt;br&gt;Mac: d8:37:be:f1:2b:93&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -76</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:55</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10421186,32.10667102,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Omer-EXT</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Omer-EXT&lt;br&gt;Time: 2017-10-31 13:29:55&lt;br&gt;Mac: c4:12:f5:1a:0a:fe&lt;br&gt;Altitude: 459&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -69</description>
+            <TimeStamp>
+                <when>2017-10-31 13:29:55</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10421186,32.10667102,459.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Zvuvik1r</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Zvuvik1r&lt;br&gt;Time: 2017-10-31 13:32:29&lt;br&gt;Mac: cc:b2:55:67:2d:4c&lt;br&gt;Altitude: 474&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:29</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10616374,32.10773857,474.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:32:29&lt;br&gt;Mac: 42501_7213_5455362&lt;br&gt;Altitude: 474&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:29</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10616374,32.10773857,474.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Eli</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Eli&lt;br&gt;Time: 2017-10-31 13:32:27&lt;br&gt;Mac: c4:12:f5:fd:37:e8&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:27</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10625517,32.10773837,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Rinat</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Rinat&lt;br&gt;Time: 2017-10-31 13:32:25&lt;br&gt;Mac: c4:12:f5:f9:6b:86&lt;br&gt;Altitude: 474&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:25</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10638584,32.10769655,474.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:32:25&lt;br&gt;Mac: 42501_18122_537602&lt;br&gt;Altitude: 474&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:25</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10638584,32.10769655,474.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>barkan gan</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: barkan gan&lt;br&gt;Time: 2017-10-31 13:32:25&lt;br&gt;Mac: 80:26:89:0d:50:c4&lt;br&gt;Altitude: 474&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:25</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10638584,32.10769655,474.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>shay1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: shay1&lt;br&gt;Time: 2017-10-31 13:32:23&lt;br&gt;Mac: 10:be:f5:35:3d:3a&lt;br&gt;Altitude: 473&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:23</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10650405,32.10767116,473.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>roimi</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: roimi&lt;br&gt;Time: 2017-10-31 13:31:54&lt;br&gt;Mac: 00:21:04:49:80:32&lt;br&gt;Altitude: 465&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -66</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:54</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10773605,32.10687165,465.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:31:54&lt;br&gt;Mac: 42501_7213_3082242&lt;br&gt;Altitude: 465&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:54</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10773605,32.10687165,465.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>shay1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: shay1&lt;br&gt;Time: 2017-10-31 13:32:31&lt;br&gt;Mac: 10:be:f5:35:3d:3a&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:31</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10608099,32.10774013,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>polishuk1</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: polishuk1&lt;br&gt;Time: 2017-10-31 13:32:31&lt;br&gt;Mac: 18:a6:f7:5e:a0:cd&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 7&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:31</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10608099,32.10774013,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:32:37&lt;br&gt;Mac: 42501_10072_470801&lt;br&gt;Altitude: 474&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:37</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1059142,32.10775533,474.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>barkan gan</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: barkan gan&lt;br&gt;Time: 2017-10-31 13:33:03&lt;br&gt;Mac: 80:26:89:0d:50:c4&lt;br&gt;Altitude: 474&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:33:03</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10591392,32.10774469,474.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>elad</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: elad&lt;br&gt;Time: 2017-10-31 13:32:33&lt;br&gt;Mac: 6c:b0:ce:2e:89:c9&lt;br&gt;Altitude: 474&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:33</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10601107,32.107723,474.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bar-ozhot</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Bar-ozhot&lt;br&gt;Time: 2017-10-31 13:32:43&lt;br&gt;Mac: 00:78:9e:ff:95:6e&lt;br&gt;Altitude: 476&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:43</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10588715,32.10770126,476.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bar-ozhot</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Bar-ozhot&lt;br&gt;Time: 2017-10-31 13:32:41&lt;br&gt;Mac: 00:78:9e:ff:95:6e&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:41</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10587686,32.10771439,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:32:41&lt;br&gt;Mac: 42501_10072_470801&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -89</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:41</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10587686,32.10771439,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HP-Print-64-Deskjet 4640 series</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HP-Print-64-Deskjet 4640 series&lt;br&gt;Time: 2017-10-31 13:31:38&lt;br&gt;Mac: 5c:b9:01:6d:f7:64&lt;br&gt;Altitude: 460&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:38</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10797121,32.1062696,460.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK_9C13</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK_9C13&lt;br&gt;Time: 2017-10-31 13:31:38&lt;br&gt;Mac: 88:25:93:45:9c:13&lt;br&gt;Altitude: 460&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -73</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:38</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10797121,32.1062696,460.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Adani</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Adani&lt;br&gt;Time: 2017-10-31 13:32:06&lt;br&gt;Mac: 7c:b7:33:a1:77:8e&lt;br&gt;Altitude: 471&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -80</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10725666,32.10726674,471.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HP-Print-4F-Deskjet 4640 series</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HP-Print-4F-Deskjet 4640 series&lt;br&gt;Time: 2017-10-31 13:32:06&lt;br&gt;Mac: 8c:dc:d4:68:89:4f&lt;br&gt;Altitude: 471&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:06</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10725666,32.10726674,471.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Zeevi-2.4G</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Zeevi-2.4G&lt;br&gt;Time: 2017-10-31 13:31:36&lt;br&gt;Mac: 14:ae:db:c6:76:7a&lt;br&gt;Altitude: 460&lt;br&gt;Frequency: 5&lt;br&gt;Signal: -83</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:36</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10798223,32.10617662,460.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Avi</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Avi&lt;br&gt;Time: 2017-10-31 13:32:04&lt;br&gt;Mac: f8:ab:05:ea:bd:af&lt;br&gt;Altitude: 470&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -76</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:04</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10733314,32.10718335,470.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yakar-Ezra</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Yakar-Ezra&lt;br&gt;Time: 2017-10-31 13:31:34&lt;br&gt;Mac: c4:04:15:63:4d:76&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:34</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10799538,32.10612347,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bezeq Free J01610</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Bezeq Free J01610&lt;br&gt;Time: 2017-10-31 13:31:34&lt;br&gt;Mac: 6a:04:15:63:4d:77&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:34</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10799538,32.10612347,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK_9C13</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK_9C13&lt;br&gt;Time: 2017-10-31 13:31:34&lt;br&gt;Mac: 88:25:93:45:9c:13&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:34</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10799538,32.10612347,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Avi</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Avi&lt;br&gt;Time: 2017-10-31 13:32:02&lt;br&gt;Mac: f8:ab:05:ed:b4:91&lt;br&gt;Altitude: 467&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -79</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:02</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10743898,32.1071161,467.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>barkan gan</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: barkan gan&lt;br&gt;Time: 2017-10-31 13:32:02&lt;br&gt;Mac: 80:26:89:0d:50:c4&lt;br&gt;Altitude: 467&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:02</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10743898,32.1071161,467.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>TP-LINK_9C13</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: TP-LINK_9C13&lt;br&gt;Time: 2017-10-31 13:31:32&lt;br&gt;Mac: 88:25:93:45:9c:13&lt;br&gt;Altitude: 460&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:32</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10799664,32.10607805,460.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>ayelet10</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: ayelet10&lt;br&gt;Time: 2017-10-31 13:32:00&lt;br&gt;Mac: 48:ee:0c:40:07:5e&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -87</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:00</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10750633,32.10706894,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Avi</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Avi&lt;br&gt;Time: 2017-10-31 13:32:00&lt;br&gt;Mac: 08:6a:0a:6a:09:7a&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -85</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:00</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10750633,32.10706894,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>ayelet10</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: ayelet10&lt;br&gt;Time: 2017-10-31 13:32:10&lt;br&gt;Mac: 48:ee:0c:40:07:5e&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 11&lt;br&gt;Signal: -76</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:10</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10712993,32.10740819,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>poulin</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: poulin&lt;br&gt;Time: 2017-10-31 13:32:10&lt;br&gt;Mac: 10:be:f5:41:d5:c2&lt;br&gt;Altitude: 475&lt;br&gt;Frequency: 9&lt;br&gt;Signal: -86</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:10</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10712993,32.10740819,475.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>roimi</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: roimi&lt;br&gt;Time: 2017-10-31 13:31:41&lt;br&gt;Mac: 00:21:04:49:80:32&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:41</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10795522,32.1064122,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Zeevi-5G</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Zeevi-5G&lt;br&gt;Time: 2017-10-31 13:31:41&lt;br&gt;Mac: 14:ae:db:c6:76:7d&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 40&lt;br&gt;Signal: -88</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:41</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10795522,32.1064122,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Home</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Home&lt;br&gt;Time: 2017-10-31 13:31:41&lt;br&gt;Mac: 18:a6:f7:8a:95:6e&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -73</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:41</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10795522,32.1064122,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HOTBOX-CBC4</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HOTBOX-CBC4&lt;br&gt;Time: 2017-10-31 13:31:41&lt;br&gt;Mac: 00:78:9e:fb:20:0c&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:41</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10795522,32.1064122,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Home</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Home&lt;br&gt;Time: 2017-10-31 13:31:40&lt;br&gt;Mac: 18:a6:f7:8a:95:6e&lt;br&gt;Altitude: 461&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:40</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.1079555,32.10636497,461.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:32:14&lt;br&gt;Mac: 42501_7121_7697922&lt;br&gt;Altitude: 477&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -113</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:14</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10696157,32.1075452,477.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Home</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Home&lt;br&gt;Time: 2017-10-31 13:31:46&lt;br&gt;Mac: 00:78:9e:fb:36:50&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 10&lt;br&gt;Signal: -82</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:46</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10796355,32.10661994,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>hefziba</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: hefziba&lt;br&gt;Time: 2017-10-31 13:31:46&lt;br&gt;Mac: d8:fe:e3:02:1e:c9&lt;br&gt;Altitude: 462&lt;br&gt;Frequency: 1&lt;br&gt;Signal: -84</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:46</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10796355,32.10661994,462.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HP-Print-4F-Deskjet 4640 series</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: HP-Print-4F-Deskjet 4640 series&lt;br&gt;Time: 2017-10-31 13:32:12&lt;br&gt;Mac: 8c:dc:d4:68:89:4f&lt;br&gt;Altitude: 477&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -76</description>
+            <TimeStamp>
+                <when>2017-10-31 13:32:12</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10704588,32.10747351,477.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: Partner&lt;br&gt;Time: 2017-10-31 13:31:44&lt;br&gt;Mac: 42501_7213_3082243&lt;br&gt;Altitude: 460&lt;br&gt;Frequency: 0&lt;br&gt;Signal: -81</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:44</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10792456,32.10655302,460.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>roimi</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>SSID: roimi&lt;br&gt;Time: 2017-10-31 13:31:52&lt;br&gt;Mac: 00:21:04:49:80:32&lt;br&gt;Altitude: 465&lt;br&gt;Frequency: 6&lt;br&gt;Signal: -78</description>
+            <TimeStamp>
+                <when>2017-10-31 13:31:52</when>
+            </TimeStamp>
+            <styleUrl>#red</styleUrl>
+            <Point>
+                <coordinates>35.10781076,32.10679218,465.0</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
