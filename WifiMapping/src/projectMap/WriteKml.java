@@ -45,6 +45,7 @@ public class WriteKml {
 		for (int index = 0; index < wifiPointsList.size(); index++) {
 			wifiPoint = wifiPointsList.get(index);
 			try {
+				//converting Sting to double/integer in order for the KML to identify it as a place mark.
 				lat = Double.parseDouble(wifiPoint.getLat());
 				lon = Double.parseDouble(wifiPoint.getLon());
 				alt = Integer.parseInt(wifiPoint.getAlt());
@@ -54,6 +55,7 @@ public class WriteKml {
 
 			TimeStamp ts = new TimeStamp();
 			ts.withWhen(wifiPoint.getTime());
+			//what is written inside the description box of each wifiPoint
 			doc.createAndAddPlacemark().withName(wifiPoint.getSsid()).withVisibility(true).withOpen(true)
 					.withDescription("SSID: " + wifiPoint.getSsid() + "<br>" + "Time: " + wifiPoint.getTime() + "<br>"
 							+ "Mac: " + wifiPoint.getMac() + "<br>" + "Altitude: " + wifiPoint.getAlt() + "<br>"
@@ -62,6 +64,7 @@ public class WriteKml {
 		}
 		try {
 			if (wifiPointsList.size() > 0) {
+				//Prints out the path the KML was created.
 				kml.marshal(new File(pathToWrite));
 				System.out.println("Kml file created at path " + pathToWrite);
 			}
