@@ -138,4 +138,5 @@ public class WifiPoint implements Comparable<WifiPoint> {
 			return 1;
 		}
 	}
+	
 }

@@ -45,8 +45,7 @@ public class ReadToKml {
 		return fileWifiPoints;
 	}
 
-
-	public ReadToKml () {
+	public ReadToKml () { // for testing
 	}
 	
 	/**

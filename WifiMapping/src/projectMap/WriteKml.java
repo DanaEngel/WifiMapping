@@ -21,7 +21,7 @@ public class WriteKml {
 	 * This is the constructor of the class
 	 * 
 	 * @param pathToWrite
-	 *            - where to write the file
+	 * where to write the file
 	 */
 	public WriteKml(String pathToWrite) {
 		this.pathToWrite = pathToWrite;
@@ -29,10 +29,10 @@ public class WriteKml {
 
 	/**
 	 * This function is responsible for writing the kml itself, it uses external JAR
-	 * libraries and creates new placemakes.
+	 * libraries and creates new placemakers.
 	 * 
 	 * @param wifiPointsList
-	 *            - the filtered list.
+	 * the filtered list.
 	 */
 	public void writeToKml(List<WifiPoint> wifiPointsList) {
 		WifiPoint wifiPoint;
