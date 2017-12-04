@@ -17,7 +17,7 @@ public class WifiPoint implements Comparable<WifiPoint> {
 	private String time;
 
 	/**
-	 * THis is the constructor of the class.
+	 * This is the constructor of the class.
 	 * 
 	 * @param ssid
 	 * @param mac
@@ -122,7 +122,7 @@ public class WifiPoint implements Comparable<WifiPoint> {
 	}
 
 	/**
-	 * This function compares each signal (the strength of wifi) and returns -1,0,1
+	 * This function compares each signal (the strength of WiFi) and returns -1,0,1
 	 * according to whether it is stronger, the same or weaker.
 	 */
 	@Override

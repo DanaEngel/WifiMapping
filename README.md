@@ -17,7 +17,7 @@ After you received your CSV file (or if there is a number of them you could put 
    After you run it, it should create a new formatted CSV file and should ask you what field you want to filter by in order to write the KML file 
    (filtered by place, by time or by ID).
    
-   (!) IT IS IMPORTANT TO PUT THE EXACT INFORMATION THAT IS WRITTEN IN THE CSV FILE FOR THE FILTER TO WORK (!)
+   (!) IT IS IMPORTANT TO PUT THE EXACT INFORMATION THAT IS WRITTEN IN THE CSV FILE FOR THE FILTER TO WORK UNLESS WRITTEN OTHERWISE (!)
    
 3. After you filtered the information you want, the program created the KML file you want and you could upload it to google earth to inspect the WiFi points. 
    

@@ -5,6 +5,7 @@ import java.io.File;
 import org.junit.jupiter.api.Test;
 /**
  * This is the JUNIT test for the WifiMapping Class.
+ * 
  * @author Dana and Enna
  */
 class WifiMappingTest {

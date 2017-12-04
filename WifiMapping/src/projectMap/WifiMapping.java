@@ -23,14 +23,14 @@ public class WifiMapping {
 	}
 
 	/**
-	 * This function reads the csv file that is not formated and groups all of the
+	 * This function reads the CSV file that is not formated and groups all of the
 	 * information in clusters (Map data structure) in which each level is a
 	 * different group. This way we have easier access to each cluster.
 	 * 
 	 * @param folderName
-	 *            - csvs not formated
+	 * CSVs not formated
 	 * @param csvFilePath
-	 *            - where it creates a csv.
+	 * where it creates a CSV.
 	 */
 	public void readFromFolderAndBuildCsv(String folderName, String csvFilePath) {
 		File directory = new File(folderName);
@@ -112,7 +112,7 @@ public class WifiMapping {
 	}
 
 	/**
-	 * This private function is used in order to write the new csv file with the
+	 * This private function is used in order to write the new CSV file with the
 	 * grouped data.
 	 * 
 	 * @param fileName - where to write the file.

@@ -4,7 +4,7 @@ import java.io.File;
 /**
  * @author Dana and Enna
  * This class is the main class in which the program enters to.
- * It creates a CSV file and uses it to create a new kml file by filtered fields.
+ * It creates a CSV file and uses it to create a new KML file by filtered fields.
  */
 
 public class Main {
@@ -19,4 +19,5 @@ public class Main {
 		WriteKml writeKml = new WriteKml("C:\\Users\\ennagrigor\\Desktop\\result.kml");
 		writeKml.writeToKml(readKml.getFilteredList());
 	}
+	
 }
