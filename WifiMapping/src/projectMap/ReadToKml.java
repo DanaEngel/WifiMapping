@@ -45,12 +45,17 @@ public class ReadToKml {
 		return fileWifiPoints;
 	}
 
+
+	public ReadToKml () {
+	}
+	
 	/**
 	 * This function is the one that is responsible for filtering the data from
 	 * input that the user enters into the scanner. The function can filter by
 	 * place, by time and by ID. It also checks if the input the user enters is
 	 * correct.
 	 */
+	
 	private void filterByParameter() {
 		if (!csvFile.exists()) {
 			return;

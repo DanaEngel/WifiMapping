@@ -54,12 +54,11 @@ public class WifiMapping {
 
 	/**
 	 * This function gets the file extension of the file we are reading.
-	 * 
 	 * @param file
-	 *            - the file we are reading
+	 * the file we are reading
 	 * @return the name of the file name extension
 	 */
-	private String getFileExtension(File file) {
+	public String getFileExtension(File file) {
 		String fileName = file.getName();
 		String extension = "";
 		if (fileName.lastIndexOf(".") != -1 && fileName.lastIndexOf(".") != 0) {
