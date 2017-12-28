@@ -9,14 +9,14 @@ import java.io.File;
 
 public class Main {
 	public static void main(String[] args) {
-		String readFromFilePath = "C:\\Users\\home\\Desktop\\files";
-		String writeToFilePath = "C:\\Users\\home\\Desktop\\result.csv";
+		String readFromFilePath = "C:\\Users\\dana\\Desktop\\files";
+		String writeToFilePath = "C:\\Users\\dana\\Desktop\\result.csv";
 		WifiMapping wifiMapping = new WifiMapping();
 		System.out.println("Csv file created at path: " + writeToFilePath);
 		wifiMapping.readFromFolderAndBuildCsv(readFromFilePath, writeToFilePath);
 		System.out.println("*******************************************");
-		ReadToKml readKml = new ReadToKml(new File("C:\\Users\\home\\Desktop\\result.csv"));
-		WriteKml writeKml = new WriteKml("C:\\Users\\home\\Desktop\\result.kml");
+		ReadToKml readKml = new ReadToKml(new File("C:\\Users\\dana\\Desktop\\result.csv"));
+		WriteKml writeKml = new WriteKml("C:\\Users\\dana\\Desktop\\result.kml");
 		writeKml.writeToKml(readKml.getFilteredList());
 	}
 }
