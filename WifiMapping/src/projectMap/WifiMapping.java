@@ -8,9 +8,10 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * This class contains the read from csv (not formated)
- * and write to a new grouped and formated csv file. it uses a Map - a
- * data structure that help to group the relevant data together. 
+ * This class contains the read from csv (not formated) and write to a new
+ * grouped and formated csv file. it uses a Map - a data structure that help to
+ * group the relevant data together.
+ * 
  * @author Enna and Dana
  */
 
@@ -28,16 +29,15 @@ public class WifiMapping {
 	 * different group. This way we have easier access to each cluster.
 	 * 
 	 * @param folderName
-	 * CSVs not formated
+	 *            CSVs not formated
 	 * @param csvFilePath
-	 * where it creates a CSV.
+	 *            where it creates a CSV.
 	 */
 	public void readFromFolderAndBuildCsv(String folderName, String csvFilePath) {
 		File directory = new File(folderName);
 		File[] filesInDir = directory.listFiles();
 
 		if (filesInDir.length == 0 || filesInDir == null) {
-
 			return;
 		}
 
@@ -53,10 +53,20 @@ public class WifiMapping {
 		writeToFile(csvFilePath);
 	}
 
+	public void readFromFileAndBuildCsv(String filePath, String csvFilePath) {
+		File file = new File(filePath);
+		if (!getFileExtension(file).equals("csv") || !file.exists()) {
+			return;
+		}
+		readFromFileAndGroup(file.getAbsolutePath());
+		writeToFile(csvFilePath);
+	}
+
 	/**
 	 * This function gets the file extension of the file we are reading.
+	 * 
 	 * @param file
-	 * the file we are reading
+	 *            the file we are reading
 	 * @return the name of the file name extension
 	 */
 	public String getFileExtension(File file) {
@@ -115,7 +125,8 @@ public class WifiMapping {
 	 * This private function is used in order to write the new CSV file with the
 	 * grouped data.
 	 * 
-	 * @param fileName - where to write the file.
+	 * @param fileName
+	 *            - where to write the file.
 	 */
 
 	private void writeToFile(String fileName) {

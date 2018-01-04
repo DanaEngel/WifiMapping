@@ -3,10 +3,10 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="WifiMapping/src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
-	<classpathentry kind="lib" path="C:/Users/Dana/Desktop/מטלה 0 מונחה/Jars/activation-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Dana/Desktop/מטלה 0 מונחה/Jars/JavaAPIforKml-2.2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Dana/Desktop/מטלה 0 מונחה/Jars/jaxb-api-2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Dana/Desktop/מטלה 0 מונחה/Jars/jaxb-impl-2.1.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Dana/Desktop/מטלה 0 מונחה/Jars/jsr173_api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/home/Desktop/jars/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/home/Desktop/jars/JavaAPIforKml-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/home/Desktop/jars/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/home/Desktop/jars/jaxb-impl-2.1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/home/Desktop/jars/jsr173_api-1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

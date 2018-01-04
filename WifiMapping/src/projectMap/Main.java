@@ -17,6 +17,7 @@ public class Main {
 		System.out.println("*******************************************");
 		ReadToKml readKml = new ReadToKml(new File("C:\\Users\\dana\\Desktop\\result.csv"));
 		WriteKml writeKml = new WriteKml("C:\\Users\\dana\\Desktop\\result.kml");
-		writeKml.writeToKml(readKml.getFilteredList());
+		writeKml.writeToKml(readKml.getFilteredList()); 
+		
 	}
 }
