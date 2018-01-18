@@ -56,6 +56,7 @@ public class EstimatedUser {
 			FileReader fr = new FileReader(file.getAbsolutePath());
 			BufferedReader br = new BufferedReader(fr);
 
+			br.readLine();
 			try {
 				while ((str = br.readLine()) != null) {
 					if (!str.isEmpty()) {

@@ -21,13 +21,13 @@ public class EstimatedMac {
 		this.macData = new ArrayList<Wifi>();
 	}
 
-	public void routerLocationByMac(String p_Mac) {
+	public String routerLocationByMac(String p_Mac) {
 		Mac = p_Mac;
-		SearchByMac();
+		return SearchByMac();
 	}
 
-	private void SearchByMac() {
-		String str;
+	private String SearchByMac() {
+		String str, result;
 		String[] network;
 		Wifi wifiPoint;
 		int counter = 0;
@@ -36,11 +36,12 @@ public class EstimatedMac {
 		double[] wLon = new double[4];
 		double[] wAlt = new double[4];
 		double[] sum = new double[4];
-		
+
 		try {
 			FileReader fr = new FileReader(dataFile.getAbsolutePath());
 			BufferedReader br = new BufferedReader(fr);
 
+			br.readLine();
 			try {
 				while ((str = br.readLine()) != null) {
 					if (!str.isEmpty()) {
@@ -56,13 +57,13 @@ public class EstimatedMac {
 					}
 				}
 				if (macData.size() == 0) {
-					System.out.println("MAC not found!");
-					return;
+					result = "MAC not found!";
+					return result;
 				}
 				if (macData.size() > 4) {
 					Collections.sort(macData);
 				}
-				
+
 				if (macData.size() <= 4) {
 					for (int index = 0; index < macData.size(); index++) {
 						Wifi tempPoint = macData.get(index);
@@ -107,16 +108,15 @@ public class EstimatedMac {
 				double wSumLon = sum[1] / sum[3];
 				double wSumAlt = sum[2] / sum[3];
 
-				System.out.println("The estimated location of MAC \"" + Mac + "\" --> " + "Lat:" + wSumLat + " " + "Lon:" + wSumLon + " "
-						+ "Alt:" + wSumAlt);
-
+				result = "The estimated location of MAC \"" + Mac + "\" --> " + "Lat:" + wSumLat + " " + "Lon:"
+						+ wSumLon + " " + "Alt:" + wSumAlt;
+				return result;
 			} finally {
 				br.close();
 			}
-
 		} catch (IOException ex) {
-			System.out.print("Error reading file\n" + ex);
-			System.exit(2);
+			result = "Error reading file\n" + ex;
+			return result;
 		}
 	}
 }
